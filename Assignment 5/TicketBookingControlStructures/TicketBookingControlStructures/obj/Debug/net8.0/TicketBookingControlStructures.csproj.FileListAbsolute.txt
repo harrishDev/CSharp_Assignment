@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\bin\Debug\net8.0\TicketBookingControlStructures.exe
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\bin\Debug\net8.0\TicketBookingControlStructures.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\bin\Debug\net8.0\TicketBookingControlStructures.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\bin\Debug\net8.0\TicketBookingControlStructures.dll
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\bin\Debug\net8.0\TicketBookingControlStructures.pdb
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\TicketBookingControlStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\TicketBookingControlStructures.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\TicketBookingControlStructures.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\TicketBookingControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\TicketBookingControlStructures.dll
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\refint\TicketBookingControlStructures.dll
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\TicketBookingControlStructures.pdb
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\TicketBookingControlStructures.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Desktop\hari\csharptraining\console demo\TicketBookingControlStructures\TicketBookingControlStructures\obj\Debug\net8.0\ref\TicketBookingControlStructures.dll
